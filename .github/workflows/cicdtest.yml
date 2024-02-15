@@ -27,7 +27,7 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
 
-        name: another script
+      - name: another script
         run: echo from another script
 
 
